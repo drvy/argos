@@ -1,5 +1,5 @@
 
->## This is a forked project from the original respository. 
+>## This is a forked project from the original repository. 
 >
 >This fork includes multiple pull requests that are still not accepted in the original. 
 >
