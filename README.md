@@ -1,6 +1,12 @@
-<h1 align="center">Argos</h1>
-<h3 align="center">Create GNOME Shell extensions in seconds</h3>
-<br>
+
+>## This is a forked project from the original respository. 
+>
+>This fork includes multiple pull requests that are still not accepted in the original. 
+>
+>Mainly, **it is GNOME version 36, 38 and 40 compatible**.
+
+# Argos
+### Create GNOME Shell extensions in seconds
 
 ![Screencast](https://cloud.githubusercontent.com/assets/2702526/21953508/7463004c-da5f-11e6-99e1-b8db1167c071.gif)
 
