@@ -5,7 +5,7 @@
 >
 >Mainly, **it is GNOME version 36, 38 and 40 compatible**.
 
-# Argos
+# Argos for GNOME 40
 ### Create GNOME Shell extensions in seconds
 
 ![Screencast](https://cloud.githubusercontent.com/assets/2702526/21953508/7463004c-da5f-11e6-99e1-b8db1167c071.gif)
